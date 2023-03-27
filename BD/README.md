@@ -1,2 +1,2 @@
-# A01025667_TC2005B
-Assignments for the course TC2005B
+# Database
+Assignments for the Database module of TC2005B
